@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- DeepThink Engine Configuration -->
-<!-- Version: 1.0.0 -->
-<!-- Author: Claude -->
+<!-- Version: 1.3.0 -->
+<!-- Author: Cambia x Claude -->
 <!-- Description: Professional prompt engineering for deep thinking AI -->
 
 <deepthink_engine>
@@ -47,8 +47,8 @@
   <meta>
     <version>1.0.0</version>
     <description>深度思维引擎配置文件</description>
-    <author>Claude</author>
-    <update_date>2024-01-20</update_date>
+    <author>Cambia x Claude</author>
+    <update_date>2025-01-11</update_date>
   </meta>
 
   <!-- 基础规则配置 -->
